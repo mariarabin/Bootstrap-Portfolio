@@ -23,10 +23,12 @@ h4 {
 }
 
 .navbar-brand {
-    width: 65%;
-    display: inline-block;
-    vertical-align: middle;
-    margin-left: 50px;
+    width: auto;
+    display: block;
+    align-items: center;
+    box-align: center;
+    position: inherit;
+    /*margin-left: 50px;*/
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     font-weight: bold;
     font-size: 55px;
@@ -34,7 +36,6 @@ h4 {
     background-color: #4aaaa5;
     color: #ffffff;
     padding: 30px;
-    width: auto;
 }
 
 
