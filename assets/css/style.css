@@ -1,8 +1,8 @@
 html, body {
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
-    color: #777777;
-    background-color: #efefef;
-    background: #efefef url("../images/dynamic-style.png");
+    color: #969fc9;
+    background-color: #969fc9;
+    background: #969fc9 url("../images/dynamic-style.png");
 }
 
 h1, h2, h3, h4, h5 {
